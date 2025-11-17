@@ -32,19 +32,25 @@ Week 9: Multiple Regression | Revision & Discussion for MIDTERM Exam (6.1)
 
 Week 10: 10/28 - NO Lecture | 10/30 - MIDTERM Exam (from Week 2, up to and including Linear Regression - Least squares: Lectures 4-13)
 
-Week 11: Principal Components Analysis | Logistic regression I
+Nov 6:  Lecture 19 - Multiple Linear Regression II
 
-Week 12: Logistic regression II | Classification Trees I
+Nov 13: Lecture 20 - Final Project Introduction & Overview
 
-Week 13: Final project - Introduction | Classification Trees II 
+Nov 18: Lecture 21 - Logistic Regression I (this will be a RECORDED lecture/no in-person class)
 
-Week 14: Thanksgiving Break
+Nov 20: Lecture 22 - Logistic Regression II (this will also be a RECORDED lecture/no in-person class)
 
-Week 15: Causal Inference | Revision & Discussion for FINAL EXAM
+Nov 25 & 27: NO Class
 
-Week 16: Recap of semester journey | Final project - Discussion 
+Dec 2  Final Project Discussion | Benign Introduction to Decision Trees (back to IN class/person)
 
-Week 17 : FINAL EXAM
+Dec 4   Full Course Recap: STAT 131A the "Total Picture"
+
+Dec 9  | Final Exam: Detailed Overview and Discussion
+
+Dec 11 Prep questions (online)
+
+Dec 18 : FINAL EXAM
 
 
   
